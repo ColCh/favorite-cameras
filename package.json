@@ -17,6 +17,7 @@
     "url-parse": "^1.1.7"
   },
   "scripts": {
+    "deploy": "rm -rf build && yarn run build && rm -rf docs && mv build docs && git add docs && git commit",
     "serve": "open http://localhost:9000; pushstate-server build",
     "start": "react-scripts start",
     "build": "react-scripts build",
