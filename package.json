@@ -1,0 +1,25 @@
+{
+  "name": "interesting-cameras",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "micro-jsonp": "^1.0.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^2.5.4",
+    "url-parse": "^1.1.7"
+  },
+  "scripts": {
+    "serve": "open http://localhost:9000; pushstate-server build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "response": {
+    "message": null,
+    "code": 10008,
+    "code_alias": "BAD_REQUEST",
+    "details": {
+      "what": "argument_malformed",
+      "validation_error": {
+        "expected_type": "int"
+      },
+      "which": "limit"
+    }
+  },
+  "success": false
+}

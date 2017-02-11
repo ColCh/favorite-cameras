@@ -1,0 +1,216 @@
+{
+  "response": {
+    "cameras": [
+      {
+        "ban_reason": "",
+        "time_limit": 7200,
+        "billver": 5,
+        "link_text": "",
+        "misc": {
+          "link_text": "",
+          "link": "",
+          "description": "Вечный огонь",
+          "comments": "",
+          "tags": []
+        },
+        "uin": 100000188969,
+        "published_at": 1412334239.4475910664,
+        "allowed": true,
+        "partner": "ivideon",
+        "total_views": 11078,
+        "server_name": "Мой видеосервер",
+        "views": 0,
+        "width": 1920,
+        "camera": "262144",
+        "no_share_button": false,
+        "hidden": false,
+        "banned_from_tv": false,
+        "sound_off": false,
+        "description": "Вечный огонь",
+        "tags": [],
+        "banned": false,
+        "online": true,
+        "free_banner": false,
+        "public": true,
+        "link": "",
+        "height": 1080,
+        "geo": {
+          "auto": [
+            52.6031,
+            39.5708
+          ],
+          "user": [
+            60.8174945866,
+            52.91015625
+          ]
+        },
+        "approved": true,
+        "info": {
+          "high_rate": 4086,
+          "features": null,
+          "height": 1080,
+          "info_at": 1486637938.7696530819,
+          "id": 262144,
+          "billing_notified": true,
+          "width": 1920,
+          "online": true,
+          "preview": {
+            "0": false,
+            "1": false,
+            "2": false
+          },
+          "acodec": "none",
+          "achannels": 0,
+          "afreq": 0,
+          "last_online": 1486594745.4687941074,
+          "billing_initialized": true,
+          "first_online": 1412333612.8428280354,
+          "name": "Вечный огонь",
+          "link_status": {
+            "q": 1.0028,
+            "ok": true,
+            "bitrate": 4130,
+            "t": 1412341372,
+            "sent": 1484212330
+          },
+          "vcodec": "h264",
+          "rate_limit": 2000,
+          "status_at": 1486637938.8837859631,
+          "record": {
+            "detection": false,
+            "manual": false
+          },
+          "streams": {
+            "0": false,
+            "1": false,
+            "2": true
+          },
+          "last_offline": 1486594692.0401000977
+        },
+        "comments_banned": false,
+        "comments_ban_reason": "",
+        "link_status": {
+          "q": 1.0028,
+          "ok": true,
+          "bitrate": 4130,
+          "t": 1412341372,
+          "sent": 1484212330
+        },
+        "camera_name": "Вечный огонь",
+        "server": "100-90313434e6c9ab9c2818900e8d22f8b5",
+        "show_on_tv": true,
+        "embed_logo": "partner",
+        "public_archive": false
+      },
+      {
+        "ban_reason": "",
+        "time_limit": 0,
+        "billver": 5,
+        "link_text": "",
+        "misc": {
+          "link_text": "",
+          "link": "",
+          "description": "ЦЕХ2",
+          "comments": "",
+          "tags": []
+        },
+        "uin": 100000974840,
+        "published_at": 1479478054.8725550175,
+        "allowed": true,
+        "partner": "ivideon",
+        "total_views": 742,
+        "server_name": "Тюмень-2",
+        "views": 0,
+        "width": 1920,
+        "camera": "65536",
+        "no_share_button": false,
+        "hidden": false,
+        "banned_from_tv": false,
+        "sound_off": true,
+        "description": "ЦЕХ2",
+        "tags": [],
+        "banned": false,
+        "online": true,
+        "free_banner": false,
+        "public": true,
+        "link": "",
+        "height": 1080,
+        "geo": {
+          "auto": [
+            57.1522,
+            65.5272
+          ],
+          "user": [
+            62.7547259272,
+            94.39453125
+          ]
+        },
+        "approved": true,
+        "info": {
+          "high_rate": 2278,
+          "features": null,
+          "creation_time": 1477046198.6499090195,
+          "height": 1080,
+          "is_turned_off": false,
+          "info_at": 1486628440.5229659081,
+          "id": 65536,
+          "billing_notified": true,
+          "width": 1920,
+          "online": true,
+          "preview": {
+            "0": false,
+            "1": false,
+            "2": false
+          },
+          "acodec": "none",
+          "achannels": 0,
+          "afreq": 0,
+          "billing_notified_at": 1477046204.7251400948,
+          "last_online": 1486546572.4271659851,
+          "billing_initialized": true,
+          "first_online": 1479219043.1247498989,
+          "name": "ЦЕХ2",
+          "link_status": {
+            "q": 1.4938,
+            "ok": false,
+            "bitrate": 1118,
+            "t": 1479534720,
+            "sent": 1485951071
+          },
+          "vcodec": "h264",
+          "rate_limit": 2000,
+          "status_at": 1486628440.5253589153,
+          "record": {
+            "detection": false,
+            "manual": false
+          },
+          "streams": {
+            "0": false,
+            "1": false,
+            "2": true
+          },
+          "last_offline": 1486546555.754404068
+        },
+        "comments_banned": false,
+        "comments_ban_reason": "",
+        "link_status": {
+          "q": 1.4938,
+          "ok": false,
+          "bitrate": 1118,
+          "t": 1479534720,
+          "sent": 1485951071
+        },
+        "camera_name": "ЦЕХ2",
+        "server": "100-6d031712dbf129b4f82dbbf2ba0f373c",
+        "show_on_tv": true,
+        "embed_logo": "partner",
+        "public_archive": false
+      }
+    ],
+    "seeds": {
+      "this": "261993348",
+      "next": "261993350"
+    }
+  },
+  "success": true
+}

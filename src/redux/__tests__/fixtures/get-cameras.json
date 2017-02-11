@@ -1,0 +1,375 @@
+{
+  "response": {
+    "cameras": [
+      {
+        "ban_reason": "",
+        "time_limit": 7200,
+        "billver": 5,
+        "link_text": "",
+        "misc": {
+          "link_text": "",
+          "link": "",
+          "description": "Вилгуд",
+          "comments": "",
+          "tags": []
+        },
+        "uin": 100000835061,
+        "published_at": 1465371223.3019258976,
+        "allowed": true,
+        "partner": "ivideon",
+        "total_views": 15729,
+        "server_name": "Красногорск ЦЕХ-1",
+        "views": 0,
+        "width": 1920,
+        "camera": "0",
+        "no_share_button": false,
+        "hidden": false,
+        "banned_from_tv": false,
+        "sound_off": true,
+        "description": "Вилгуд",
+        "tags": [],
+        "banned": false,
+        "online": true,
+        "free_banner": false,
+        "public": true,
+        "link": "",
+        "height": 1080,
+        "geo": {
+          "auto": [
+            60,
+            100
+          ],
+          "user": [
+            55.8123389745,
+            37.3263394833
+          ]
+        },
+        "approved": true,
+        "info": {
+          "high_rate": 2145,
+          "features": null,
+          "creation_time": 1465233899.8155090809,
+          "height": 1080,
+          "is_turned_off": false,
+          "info_at": 1486640208.8819699287,
+          "id": 0,
+          "billing_notified": true,
+          "width": 1920,
+          "online": true,
+          "preview": {
+            "0": false,
+            "1": false,
+            "2": false
+          },
+          "config": {
+            "streams/0/fps": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                25,
+                22,
+                20,
+                18,
+                16,
+                15,
+                12,
+                10,
+                8,
+                6,
+                4,
+                2,
+                1
+              ],
+              "value": 8
+            },
+            "motion_detector/enabled": {
+              "state": "synced",
+              "type": "bool",
+              "value": true
+            },
+            "general/timezone": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                "-12:00",
+                "-11:00",
+                "-10:00",
+                "-9:00",
+                "-8:00",
+                "-7:00",
+                "-6:00",
+                "-5:00",
+                "-4:00",
+                "-3:00",
+                "-2:00",
+                "-1:00",
+                "-0:00",
+                "+1:00",
+                "+2:00",
+                "+3:00",
+                "+4:00",
+                "+5:00",
+                "+6:00",
+                "+7:00",
+                "+8:00",
+                "+9:00",
+                "+10:00",
+                "+11:00",
+                "+12:00",
+                "+13:00"
+              ],
+              "value": "+8:00"
+            },
+            "microphone/enabled": {
+              "state": "synced",
+              "type": "bool",
+              "value": true
+            },
+            "streams/1/fps": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                25,
+                22,
+                20,
+                18,
+                16,
+                15,
+                12,
+                10,
+                8,
+                6,
+                4,
+                2,
+                1
+              ],
+              "value": 25
+            },
+            "night_vision/mode": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                "on",
+                "off",
+                "auto"
+              ],
+              "value": "auto"
+            },
+            "microphone/sensitivity": {
+              "state": "synced",
+              "type": "int",
+              "range": [
+                0,
+                20
+              ],
+              "value": 10
+            },
+            "streams/1/bitrate": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                256,
+                512,
+                1024,
+                2048,
+                3072,
+                4096
+              ],
+              "value": 512
+            },
+            "general/online_mode": {
+              "state": "synced",
+              "type": "bool",
+              "value": true
+            },
+            "streams/1/resolution": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                "320x180",
+                "480x272",
+                "640x360"
+              ],
+              "value": "640x360"
+            },
+            "streams/0/bitrate": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                256,
+                512,
+                1024,
+                2048,
+                3072,
+                4096
+              ],
+              "value": 2048
+            },
+            "streams/0/resolution": {
+              "state": "synced",
+              "type": "choice",
+              "range": [
+                "1280x720",
+                "1920x1080",
+                "2048x1536"
+              ],
+              "value": "1920x1080"
+            }
+          },
+          "acodec": "pcmu",
+          "achannels": 1,
+          "afreq": 8000,
+          "billing_notified_at": 1465233900.8195810318,
+          "last_online": 1486639337.5785310268,
+          "config_fw_version": "3.4.11.3540",
+          "billing_initialized": true,
+          "config_initialized": true,
+          "first_online": 1465233900.8190300465,
+          "name": "Красногорск ЦЕХ-1",
+          "link_status": {
+            "q": 1.1235,
+            "ok": false,
+            "bitrate": 1019,
+            "t": 1465298343,
+            "sent": 1486540888
+          },
+          "mute_sound": false,
+          "vcodec": "h264",
+          "rate_limit": 2000,
+          "status_at": 1486639337.165252924,
+          "record": {
+            "detection": false,
+            "manual": false
+          },
+          "streams": {
+            "0": false,
+            "1": true,
+            "2": true
+          },
+          "last_offline": 1486639310.244918108
+        },
+        "comments_banned": false,
+        "comments_ban_reason": "",
+        "link_status": {
+          "q": 1.1235,
+          "ok": false,
+          "bitrate": 1019,
+          "t": 1465298343,
+          "sent": 1486540888
+        },
+        "camera_name": "Красногорск ЦЕХ-1",
+        "server": "100-d3bf70f35aeba5a07e49aa4a44fe4814",
+        "show_on_tv": true,
+        "embed_logo": "partner",
+        "public_archive": false
+      },
+      {
+        "ban_reason": "",
+        "time_limit": 7200,
+        "billver": 5,
+        "link_text": "",
+        "misc": {
+          "link_text": "",
+          "link": "http://avangard-saratov.ru/",
+          "description": "Саратовская  обл.,  с.Усовка,  б.о. Авангард",
+          "comments": "",
+          "tags": []
+        },
+        "uin": 100000689446,
+        "published_at": 1454013946.4054310322,
+        "allowed": true,
+        "partner": "ivideon",
+        "total_views": 3873,
+        "server_name": "Дом",
+        "views": 0,
+        "width": 704,
+        "camera": "0",
+        "no_share_button": false,
+        "hidden": false,
+        "banned_from_tv": false,
+        "sound_off": true,
+        "description": "Саратовская  обл.,  с.Усовка,  б.о. Авангард",
+        "tags": [],
+        "banned": false,
+        "online": true,
+        "free_banner": false,
+        "public": true,
+        "link": "http://avangard-saratov.ru/",
+        "height": 576,
+        "geo": {
+          "auto": [
+            51.5406,
+            46.0086
+          ],
+          "user": [
+            51.8093245346,
+            46.5310531855
+          ]
+        },
+        "approved": true,
+        "info": {
+          "features": null,
+          "creation_time": 1454013602.3541460037,
+          "height": 576,
+          "is_turned_off": false,
+          "info_at": 1486613045.1263279915,
+          "id": 0,
+          "billing_notified": true,
+          "width": 704,
+          "online": true,
+          "preview": {
+            "0": false,
+            "1": false,
+            "2": false
+          },
+          "acodec": "none",
+          "achannels": 0,
+          "afreq": 0,
+          "billing_notified_at": 1454013602.3589100838,
+          "last_online": 1486613050.4689040184,
+          "billing_initialized": true,
+          "first_online": 1454013602.3493869305,
+          "name": "База Отдыха Авангард Пирс",
+          "link_status": {
+            "q": 1.1839,
+            "ok": false,
+            "bitrate": 924,
+            "t": 1454014078,
+            "sent": 1486622435
+          },
+          "vcodec": "h264",
+          "status_at": 1486613045.1285820007,
+          "record": {
+            "detection": false,
+            "manual": false
+          },
+          "streams": {
+            "0": false,
+            "1": false,
+            "2": true
+          },
+          "last_offline": 1486613024.4676170349
+        },
+        "comments_banned": false,
+        "comments_ban_reason": "",
+        "link_status": {
+          "q": 1.1839,
+          "ok": false,
+          "bitrate": 924,
+          "t": 1454014078,
+          "sent": 1486622435
+        },
+        "camera_name": "База Отдыха Авангард Пирс",
+        "server": "100-2c89f63da1e606b3a355a49a50add470",
+        "show_on_tv": true,
+        "embed_logo": "partner",
+        "public_archive": false
+      }
+    ],
+    "seeds": {
+      "this": "261993346",
+      "next": "261993348"
+    }
+  },
+  "success": true
+}

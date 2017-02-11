@@ -1,0 +1,26 @@
+.button {
+  border-radius: 7%;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 5px 15px;
+  user-select: none;
+}
+  .button--primary {
+    background-color: blue;
+    color: white;
+  }
+  .button--success {
+    background-color: green;
+    color: white;
+  }
+  .button--transparent {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+  }
+  .button--ghost {
+    background-color: transparent;
+    border: 1px white solid;
+    color: white;
+  }
