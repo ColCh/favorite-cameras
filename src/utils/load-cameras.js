@@ -11,7 +11,7 @@ export default function (seed = '', limit = 10) {
       seed && `seed=${seed}`,
     ].filter(Boolean).join('&');
     
-    const url = `http://api.ivideon.com/tv/cameras?${querystring}`;
+    const url = `https://api.ivideon.com/tv/cameras?${querystring}`;
     
     jsonp(url, {
       param,
