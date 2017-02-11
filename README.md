@@ -2,6 +2,10 @@
 
 Made with [create-react-app](https://github.com/facebookincubator/create-react-app)
 
+Task (🇷🇺 RU): [Тестовое задание Web-разработчик (Front-end).pdf](./Тестовое%20задание%20Web-разработчик%20(Front-end).pdf)
+
+Browseable online with Github Pages: https://colch.github.io/favorite-cameras/
+
 ## Launch
 
 Share `build` directory and open `index.html`
